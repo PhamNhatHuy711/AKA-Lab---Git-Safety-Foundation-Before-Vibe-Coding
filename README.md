@@ -3,3 +3,5 @@
 ## Project Objectives
 
 ## Project Scope
+
+## Git Workflow
