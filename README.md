@@ -7,3 +7,5 @@
 ## Git Workflow
 
 ## Branching Strategy
+
+## Reporting Module
