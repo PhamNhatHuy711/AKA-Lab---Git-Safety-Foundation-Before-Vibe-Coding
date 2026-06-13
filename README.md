@@ -7,3 +7,5 @@
 ## Git Workflow
 
 ## Branching Strategy
+
+## Documentation Fixes
