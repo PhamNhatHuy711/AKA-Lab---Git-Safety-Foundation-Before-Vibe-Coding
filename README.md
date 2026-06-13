@@ -5,3 +5,5 @@
 ## Project Scope
 
 ## Git Workflow
+
+## Branching Strategy
