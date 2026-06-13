@@ -11,3 +11,6 @@
 ## Reporting Module
 
 ## Dashboard Requirements
+
+## Report Testing
+This section is created for Pull Request 2.
